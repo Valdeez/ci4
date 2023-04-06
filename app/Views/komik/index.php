@@ -9,9 +9,9 @@
             <thead>
               <tr>
                 <th scope="col">#</th>
-                <th scope="col">Sampul</th>
-                <th scope="col">Judul</th>
-                <th scope="col">Aksi</th>
+                <th scope="col">Cover</th>
+                <th scope="col">Title</th>
+                <th scope="col">Action</th>
               </tr>
             </thead>
             <tbody>
